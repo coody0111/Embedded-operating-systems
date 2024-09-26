@@ -1,7 +1,7 @@
 # Embedded Operating Systems
 > I want to express my gratitude to Dawson Engler, the instructor of the CS140e course. Although I'm not a Stanford student, I came across his materials one day, which inspired me to dive into the world of embedded operating systems.
 
-> This repository is dedicated to guiding you through the process of writing your own operating system for the Raspberry Pi 3 Model B+.
+> This repository is dedicated to guiding you through the process of writing your own operating system on the Raspberry Pi 3b+.
 
 ## What You Need for This Course
 1. An ARM-based Raspberry Pi 3 Model B+
